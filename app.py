@@ -15,5 +15,8 @@ if __name__ == '__main__':
 
 #Nova sessão 
     
-#Mais uma modificação    
+#Mais uma modificação 
+
+
+# Modificações : commit ciclo 18       
     
